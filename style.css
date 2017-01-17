@@ -39,6 +39,10 @@ h2 small {
     margin-left: 25px;
 }
 
+main {
+  background-color: #eeeeee;
+}
+
 .home-txt p {
     padding: 25px;
     font-size: 16px;
@@ -133,6 +137,10 @@ h2 small {
   font-size: 17px;
   padding: 15px;
   background-color: #eeeeee;
+}
+
+.exp-section-title {
+  text-shadow: 3px 3px 3px #fff;
 }
 
 .caption {
