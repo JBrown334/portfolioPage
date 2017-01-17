@@ -24,8 +24,8 @@ h2, h3 {
     font-family: 'Open Sans', sans-serif;
 }
 
-h2 small {
-    /*color: #2a2a2a;*/
+.header h2 small {
+    font-size: 55%;
     color: #ffd700;
 }
 
@@ -130,6 +130,7 @@ main {
 }
 
 .header-exp h2 small {
+    font-size: 55%;
     color: #ffd700;
 }
 
