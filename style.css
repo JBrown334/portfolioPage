@@ -25,7 +25,8 @@ h2, h3 {
 }
 
 h2 small {
-    color: #2a2a2a;
+    /*color: #2a2a2a;*/
+    color: #ffd700;
 }
 
 .header .prof-img {
@@ -129,7 +130,7 @@ main {
 }
 
 .header-exp h2 small {
-    color: #2a2a2a;
+    color: #ffd700;
 }
 
 .exp-cont {
@@ -140,7 +141,7 @@ main {
 }
 
 .exp-section-title {
-  text-shadow: 3px 3px 3px #fff;
+margin-left: 30px;
 }
 
 .caption {
